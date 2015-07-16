@@ -4,8 +4,9 @@ References list
 - [Keynote given by Jack Vanderplas](https://www.youtube.com/watch?v=5GlNDD7qbP4&index=3&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu) A schematic history of scipy
 
 ##Blog
+- [Blog de Jake Vanderplas](https://jakevdp.github.io/)
+- [Blog de Fernando Perez](http://blog.fperez.org)
 - http://python-history.blogspot.com/
-- https://jakevdp.github.io/
 
 ##Numerical Python, numarray, NumPy
  - [Matrix-SIG](http://mail.python.org/pipermail/matrix-sig/) mailing list archives, 1995 to 2001
@@ -21,3 +22,18 @@ ScientificPython was the first published collection of scientific Python, code g
 
 ##SciPy
  - [History of SciPy](http://wiki.scipy.org/History_of_SciPy) - unfortunately not very detailed
+
+##Important packages of SciPy community
+ - Numeric (1995)
+ - Multipack (1998) Travis Oliphant & Robert Kern & Pearu Peterson
+ - SciPy (2000) Eric Jones
+ - IPython (2001) Fernando Perez [Blog de Fernando](http://blog.fperez.org/2012/01/ipython-notebook-historical.html)
+ - Matplotlib (2002)
+ - Numarray (2002) Paul DuBois & Perry Greenfield [Introduction](http://mail.scipy.org/pipermail/numpy-discussion/2002-July/001549.html)
+ - NumPy (2006)
+ - Scikits (2009)
+ - IPython notebook (2011) [Blog de Fernando](http://blog.fperez.org/2012/01/ipython-notebook-historical.html)
+ - Jupyter notebook (2015) [Blog de Fernando](http://blog.jupyter.org/2015/07/07/project-jupyter-computational-narratives-as-the-engine-of-collaborative-data-science/)
+
+## Various content
+ - 2012 [Discussion in a forum with Fernando on matplotlib history](http://matplotlib.1069221.n5.nabble.com/Matplotlib-history-td43724.html)
