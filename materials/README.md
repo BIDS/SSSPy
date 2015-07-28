@@ -41,6 +41,7 @@ ScientificPython was the first published collection of scientific Python, code g
  - Jupyter notebook (2015) [Blog de Fernando](http://blog.jupyter.org/2015/07/07/project-jupyter-computational-narratives-as-the-engine-of-collaborative-data-science/)
 
 ## Various content
+- 2012 [Fernando Perez mail on ipython notebook genesis](http://mail.scipy.org/pipermail/ipython-user/2012-January/009021.html)
 - 2012 [Discussion in a forum with Fernando on matplotlib history](http://matplotlib.1069221.n5.nabble.com/Matplotlib-history-td43724.html)
 - 2012 [Oliphant tribute to John Hunter](http://technicaldiscovery.blogspot.com/2012/09/john-hunter-1968-2012.html)
 - 2001 [Code IPython 0.0.1](https://gist.github.com/fperez/1579699)
